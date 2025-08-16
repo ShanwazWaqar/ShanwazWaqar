@@ -29,20 +29,67 @@
 ---
 
 ## Toolbox
-<p>
-  <img src="https://img.shields.io/badge/Angular-DE0031?logo=angular&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?logo=githubactions&logoColor=white&style=for-the-badge" />
-</p>
+
+<!-- Modern icons grid (dark-mode friendly) -->
+<div align="center">
+
+<table style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 12px 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
+      <div style="font-size:12px; margin-top:6px;">Angular</div>
+    </td>
+    <td align="center" style="padding: 12px 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+      <div style="font-size:12px; margin-top:6px;">React</div>
+    </td>
+    <td align="center" style="padding: 12px 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+      <div style="font-size:12px; margin-top:6px;">TypeScript</div>
+    </td>
+    <td align="center" style="padding: 12px 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+      <div style="font-size:12px; margin-top:6px;">Java</div>
+    </td>
+    <td align="center" style="padding: 12px 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
+      <div style="font-size:12px; margin-top:6px;">Spring</div>
+    </td>
+    <td align="center" style="padding: 12px 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+      <div style="font-size:12px; margin-top:6px;">Node.js</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 12px 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+      <div style="font-size:12px; margin-top:6px;">PostgreSQL</div>
+    </td>
+    <td align="center" style="padding: 12px 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+      <div style="font-size:12px; margin-top:6px;">MongoDB</div>
+    </td>
+    <td align="center" style="padding: 12px 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+      <div style="font-size:12px; margin-top:6px;">AWS</div>
+    </td>
+    <td align="center" style="padding: 12px 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+      <div style="font-size:12px; margin-top:6px;">Docker</div>
+    </td>
+    <td align="center" style="padding: 12px 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+      <div style="font-size:12px; margin-top:6px;">Kubernetes</div>
+    </td>
+    <td align="center" style="padding: 12px 16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" />
+      <div style="font-size:12px; margin-top:6px;">GitHub Actions</div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
