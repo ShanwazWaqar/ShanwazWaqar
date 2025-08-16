@@ -1,7 +1,10 @@
 name: Generate contribution snake
 on:
-  schedule: [{ cron: "0 0 * * *" }]   # runs daily (UTC)
-  workflow_dispatch:                  # lets you run it manually
+  push:
+    branches: [ "main" ]         # <— NEW: makes it appear after your next commit
+  schedule:
+    - cron: "0 0 * * *"          # daily (UTC)
+  workflow_dispatch:              # run it manually from Actions
 
 permissions:
   contents: write
