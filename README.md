@@ -30,65 +30,21 @@
 
 ## Toolbox
 
-<!-- Modern icons grid (dark-mode friendly) -->
-<div align="center">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="36" alt="Angular" style="margin:0 12px;" loading="lazy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" style="margin:0 12px;" loading="lazy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" style="margin:0 12px;" loading="lazy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" style="margin:0 12px;" loading="lazy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring" style="margin:0 12px;" loading="lazy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" style="margin:0 12px;" loading="lazy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" style="margin:0 12px;" loading="lazy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" style="margin:0 12px;" loading="lazy"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="36" alt="AWS" style="margin:0 12px;" loading="lazy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" style="margin:0 12px;" loading="lazy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="Kubernetes" style="margin:0 12px;" loading="lazy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="GitHub Actions" style="margin:0 12px;" loading="lazy"/>
+</p>
 
-<table style="border-collapse: collapse;">
-  <tr>
-    <td align="center" style="padding: 12px 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
-      <div style="font-size:12px; margin-top:6px;">Angular</div>
-    </td>
-    <td align="center" style="padding: 12px 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-      <div style="font-size:12px; margin-top:6px;">React</div>
-    </td>
-    <td align="center" style="padding: 12px 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-      <div style="font-size:12px; margin-top:6px;">TypeScript</div>
-    </td>
-    <td align="center" style="padding: 12px 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-      <div style="font-size:12px; margin-top:6px;">Java</div>
-    </td>
-    <td align="center" style="padding: 12px 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
-      <div style="font-size:12px; margin-top:6px;">Spring</div>
-    </td>
-    <td align="center" style="padding: 12px 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-      <div style="font-size:12px; margin-top:6px;">Node.js</div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 12px 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-      <div style="font-size:12px; margin-top:6px;">PostgreSQL</div>
-    </td>
-    <td align="center" style="padding: 12px 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-      <div style="font-size:12px; margin-top:6px;">MongoDB</div>
-    </td>
-    <td align="center" style="padding: 12px 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
-      <div style="font-size:12px; margin-top:6px;">AWS</div>
-    </td>
-    <td align="center" style="padding: 12px 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-      <div style="font-size:12px; margin-top:6px;">Docker</div>
-    </td>
-    <td align="center" style="padding: 12px 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-      <div style="font-size:12px; margin-top:6px;">Kubernetes</div>
-    </td>
-    <td align="center" style="padding: 12px 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" />
-      <div style="font-size:12px; margin-top:6px;">GitHub Actions</div>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
 ---
